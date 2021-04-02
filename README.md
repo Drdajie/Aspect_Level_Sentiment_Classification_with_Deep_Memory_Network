@@ -1,2 +1,2 @@
 # Aspect_Level_Sentiment_Classification_with_Deep_Memory_Network
-对《Aspect Level Sentiment Classification with Deep Memory Network》的复现
+数据集和 embedding 文件需要使用者自己拥有，然后在 Hyper_Parameters.py 文件中修改相应的文件路径
